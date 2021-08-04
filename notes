@@ -1,5 +1,6 @@
 VCS = version control system = система контроля версий (git (!!!), svn)
 
+HEAD = точка, где мы сейчас нахдимся (на каком коммите или ветке)
 
 0. install git, make sure git command works in terminal
 1. git init - инициализация гита  в текущем каталоге
