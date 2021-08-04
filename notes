@@ -11,3 +11,9 @@ HEAD = точка, где мы сейчас нахдимся (на каком к
 5. git add <file> - add untracked file, OR add changed file
 6. git commit -m "<comment>" 
 7. git log
+
+add github
+
+1. git remote add <remote_name> <remote_url>
+
+example: git remote add origin https://github.com/henry2778/git_lesson.git
