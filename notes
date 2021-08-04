@@ -8,4 +8,4 @@ VCS = version control system = система контроля версий (git
 4. git config -l (для проверки)
 5. git status
 5. git add <file> - add untracked file, OR add changed file
-6. git commit -m "<comment>"
+6. git commit -m "<comment>" 
