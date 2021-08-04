@@ -1,0 +1,9 @@
+VCS = version control system = система контроля версий (git (!!!), svn)
+
+
+0. install git, make sure git command works in terminal
+1. git init - инициализация гита  в текущем каталоге
+2. git config user.email "popov256@gmail.com"
+3. git config user.name "andrii popov"
+4. git config -l (для проверки)
+5. git status
