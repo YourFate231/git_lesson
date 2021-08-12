@@ -19,3 +19,4 @@ add github
 example: git remote add origin https://github.com/henry2778/git_lesson.git
 
 8. PR
+9. git pull = git fetch & git merge
