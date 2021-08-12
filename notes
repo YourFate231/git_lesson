@@ -27,6 +27,6 @@ remote edit
 
 
 Merges:
- - fast forward (быстрая перемотка)
+ - fast forward (быстрая перемотка) не создается новый коммит
  - merge commit
  - conflict -> merge commit
