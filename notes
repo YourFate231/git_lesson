@@ -24,3 +24,9 @@ example: git remote add origin https://github.com/henry2778/git_lesson.git
 
 
 remote edit
+
+
+Merges:
+ - fast forward (быстрая перемотка)
+ - merge commit
+ - conflict -> merge commit
