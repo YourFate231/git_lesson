@@ -26,7 +26,11 @@ example: git remote add origin https://github.com/henry2778/git_lesson.git
 remote edit
 
 
+<<<<<<< HEAD
 Merges:  111111333
+=======
+Merges:  111111222
+>>>>>>> merges-three
  - fast forward (быстрая перемотка) не создается новый коммит
  - merge commit
  - conflict -> merge commit
